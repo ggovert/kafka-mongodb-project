@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+psycopg2
+python-dotenv
+kafka-python-ng
+pymongo
+scikit-learn
